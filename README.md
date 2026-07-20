@@ -134,11 +134,12 @@ Projeto criativo com linguagem visual mais autoral e experimental.
 
 ## GitHub
 
-<p align="center">
-<img src="https://img.shields.io/github/followers/labyrt?style=for-the-badge&logo=github&label=Seguidores" />
-<img src="https://img.shields.io/github/repo-size/labyrt/Zabaan?style=for-the-badge&label=Zabaan" />
-<img src="https://img.shields.io/github/last-commit/labyrt/Zabaan?style=for-the-badge&label=Último%20Commit" />
-</p>
+- Repositórios públicos
+- Projetos Full-Stack
+- Desenvolvimento Front-End
+- Estudos em Python
+- Integração com IA
+- Aprendizado contínuo em Engenharia de Software
 ---
 
 ## Contribuições
