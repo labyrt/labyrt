@@ -132,12 +132,13 @@ Projeto criativo com linguagem visual mais autoral e experimental.
 
 ---
 
-## GitHub em números
+## GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=labyrt&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+<img src="https://img.shields.io/github/followers/labyrt?style=for-the-badge&logo=github&label=Seguidores" />
+<img src="https://img.shields.io/github/repo-size/labyrt/Zabaan?style=for-the-badge&label=Zabaan" />
+<img src="https://img.shields.io/github/last-commit/labyrt/Zabaan?style=for-the-badge&label=Último%20Commit" />
 </p>
-
 ---
 
 ## Contribuições
