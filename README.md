@@ -1,131 +1,177 @@
 <div align="center">
 
-# Lucy Mazzini
+# Lucy Mazzini | Full-Stack Developer
 
-### Desenvolvedora Full-Stack | Engenharia de Software | Experiências Web
+### Desenvolvedora Full-Stack | Engenharia de Software | Aplicações Web
 
-<p align="center">
-Desenvolvimento de aplicações web, interfaces modernas e soluções digitais com foco em qualidade, evolução contínua e experiência do usuário.
-</p>
+Desenvolvimento de aplicações, interfaces e soluções digitais com foco em qualidade, evolução contínua e experiência do usuário.
 
-<p align="center">
-  <a href="https://github.com/labyrt">
-    <img src="https://img.shields.io/github/followers/labyrt?style=for-the-badge&logo=github&label=Seguidores" />
-  </a>
-  <img src="https://img.shields.io/github/stars/labyrt?style=for-the-badge&logo=github&label=Stars" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-labyrt-181717?style=for-the-badge&logo=github)](https://github.com/labyrt)
+[![Email](https://img.shields.io/badge/Email-lucymazzini666%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucymazzini666@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+# Sobre
 
-Sou desenvolvedora focada na construção de aplicações web e experiências digitais que combinam clareza técnica, organização e atenção aos detalhes.
+Sou estudante de Engenharia e desenvolvedora com foco na construção de aplicações web modernas, interfaces responsivas e experiências digitais bem estruturadas.
 
-Tenho experiência no desenvolvimento de interfaces responsivas, integração entre camadas de aplicação, versionamento de código, publicação de projetos e evolução contínua de produtos digitais.
+Tenho interesse especial em arquitetura de software, desenvolvimento full-stack, integração de APIs, automação de processos e construção de produtos digitais.
 
-Busco aplicar princípios de engenharia de software para criar soluções sustentáveis, escaláveis e fáceis de manter.
-
----
-
-## Áreas de atuação
-
-* Desenvolvimento Full-Stack
-* Engenharia Front-End
-* Arquitetura de Interfaces
-* Integração de APIs
-* Aplicações Web Responsivas
-* Design Systems
-* Automação de Processos
-* Experiência do Usuário (UX)
-* Performance Web
-* Manutenção e Evolução de Sistemas
+Busco desenvolver soluções que combinem organização, clareza técnica, escalabilidade e boa experiência de uso.
 
 ---
 
-## Competências Técnicas
+# Áreas de Atuação
 
-### Linguagens
+- Desenvolvimento Full-Stack
+- Engenharia Front-End
+- Aplicações Web
+- Integração de APIs
+- Automação de Processos
+- Arquitetura de Interfaces
+- UX e Experiência Digital
+- Sistemas Baseados em IA
+- Performance Web
+- Evolução e Manutenção de Sistemas
+
+---
+
+# Stack Tecnológica
+
+## Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 </p>
 
-### Front-End
+## Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,sass,bootstrap,tailwind" />
 </p>
 
-### Ferramentas e Engenharia
+## Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vscode,vercel" />
 </p>
 
-### Conceitos
+## Atualmente Estudando
 
-* Componentização
-* Responsividade
-* Clean Code
-* Versionamento Git
-* Consumo de APIs
-* Estruturação de Projetos
-* Boas Práticas de Front-End
-* Organização de Código
-* Manutenção Evolutiva
-* Documentação Técnica
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,docker" />
+</p>
 
 ---
 
-## Projetos Selecionados
+# Competências
 
-<div align="center">
+### Desenvolvimento
 
-<a href="https://github.com/labyrt/Zabaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=Zabaan&theme=dark&hide_border=true" />
-</a>
+- Desenvolvimento Full-Stack
+- JavaScript Moderno (ES6+)
+- TypeScript
+- Python
+- HTML5 Semântico
+- CSS3
+- Sass / SCSS
+- Consumo de APIs REST
+- Responsividade
+- Estruturação de Projetos
 
-<a href="https://github.com/labyrt/labyrt-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=labyrt-portfolio&theme=dark&hide_border=true" />
-</a>
+### Engenharia de Software
 
-<a href="https://github.com/labyrt/curso_ebac_frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=curso_ebac_frontend&theme=dark&hide_border=true" />
-</a>
+- Clean Code
+- Versionamento Git
+- Git Flow
+- Organização de Código
+- Debugging
+- Refatoração
+- Boas Práticas de Desenvolvimento
+- Documentação Técnica
 
-</div>
+### Produto e Experiência
 
----
-
-## Estatísticas
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=labyrt&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labyrt&layout=compact&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## Atualmente
-
-* Aprimorando conhecimentos em Python para backend
-* Expandindo projetos full-stack
-* Estudando arquitetura de aplicações
-* Desenvolvendo interfaces modernas e acessíveis
-* Construindo portfólio técnico com projetos próprios
+- UX
+- Design Systems
+- Componentização
+- Arquitetura Front-End
+- Interfaces Responsivas
+- Experiência do Usuário
 
 ---
 
-## Filosofia de trabalho
+# Projetos em Destaque
 
-> Software de qualidade não é apenas código funcionando.
+## 📚 Zabaan
+
+Plataforma de aprendizado de idiomas com lições, exercícios, flashcards, prática escrita e integração com IA para apoio ao estudo.
+
+🔗 https://github.com/labyrt/Zabaan
+
+---
+
+## 🌐 Labyrt Portfolio
+
+Portfólio pessoal focado em identidade visual, experiência do usuário e apresentação de projetos.
+
+🔗 https://github.com/labyrt/labyrt-portfolio
+
+---
+
+## 💻 Curso EBAC Front-End
+
+Coleção de projetos desenvolvidos durante a formação em desenvolvimento front-end.
+
+🔗 https://github.com/labyrt/curso_ebac_frontend
+
+---
+
+## 🎮 Games Shop
+
+Projeto de e-commerce responsivo desenvolvido com foco em layout, componentes e experiência do usuário.
+
+🔗 https://github.com/labyrt/sites_gamesshop
+
+---
+
+## 🛒 Loja Virtual
+
+Projeto voltado para construção de interfaces comerciais modernas.
+
+🔗 https://github.com/labyrt/exercicio_loja
+
+---
+
+# Atualmente
+
+- Aprimorando conhecimentos em Python para backend
+- Expandindo projetos full-stack
+- Estudando arquitetura de aplicações
+- Explorando ferramentas de IA aplicadas a produtos digitais
+- Construindo um portfólio técnico cada vez mais sólido
+
+---
+
+# Objetivos Profissionais
+
+- Engenharia de Software
+- Desenvolvimento Full-Stack
+- Plataformas Web
+- APIs e Integrações
+- Produtos Digitais
+- Inteligência Artificial
+- Automação
+
+---
+
+# Filosofia de Trabalho
+
+> Tecnologia é uma ferramenta.
 >
-> É código compreensível, sustentável e preparado para evoluir.
+> O objetivo é construir soluções úteis, sustentáveis e capazes de evoluir ao longo do tempo.
 
 ---
 
@@ -133,8 +179,8 @@ Busco aplicar princípios de engenharia de software para criar soluções susten
 
 ### Contato
 
-📧 [lucymazzini666@gmail.com](mailto:lucymazzini666@gmail.com)
+📧 lucymazzini666@gmail.com
 
-🔗 GitHub: https://github.com/labyrt
+🔗 https://github.com/labyrt
 
 </div>
