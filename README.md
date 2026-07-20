@@ -84,15 +84,15 @@ Busco aplicar princípios de engenharia de software para criar soluções susten
 <div align="center">
 
 <a href="https://github.com/labyrt/Zabaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=Zabaan&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=Zabaan&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/labyrt/labyrt-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=labyrt-portfolio&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=labyrt-portfolio&theme=dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/labyrt/curso_ebac_frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=curso_ebac_frontend&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=labyrt&repo=curso_ebac_frontend&theme=dark&hide_border=true" />
 </a>
 
 </div>
@@ -103,9 +103,9 @@ Busco aplicar princípios de engenharia de software para criar soluções susten
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=labyrt&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=labyrt&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labyrt&layout=compact&theme=transparent&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labyrt&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
