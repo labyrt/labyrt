@@ -119,7 +119,7 @@ Aplicação de aprendizado de idiomas com lições, flashcards, prática escrita
 Portfólio pessoal focado em identidade visual, apresentação de projetos e experiência do usuário.
 
 ### [Curso EBAC Front-End](https://github.com/labyrt/curso_ebac_frontend)
-Coleção de exercícios e projetos desenvolvidos durante a formação em front-end.
+Coleção de exercícios e projetos desenvolvidos durante a formação em FullStack.
 
 ### [Games Shop](https://github.com/labyrt/sites_gamesshop)
 Projeto responsivo voltado para layout de vitrine e experiência comercial.
