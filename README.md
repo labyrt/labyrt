@@ -2,8 +2,7 @@
 
 # Lucy Mazzini
 
-### Desenvolvedora Full-Stack · Engenharia de Software · Aplicações Web
-
+### Desenvolvedora Full-Stack · Engenharia de Software · Aplicações Web · Análise de Dados
 <p align="center">
 Construo interfaces, sistemas e experiências digitais com foco em qualidade, organização e evolução contínua.
 </p>
